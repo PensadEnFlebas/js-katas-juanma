@@ -21,4 +21,4 @@ let o = p + j
 //? SOLUCIÓN 1.5:
 let c = 10
 let m = 5
-let i = p * j
+let i = c * m
