@@ -33,4 +33,5 @@ console.log(
 // const rickAndMortyCharacters = ["Rick", "Beth", "Jerry", "Morty", "Summer", "Lapiz Lopez"];
 //? SOLUCIÓN 1.6:
 rickAndMortyCharacters.push('Lapiz Lopez')
-console.log(rickAndMortyCharacters[1], rickAndMortyCharacters)
+rickAndMortyCharacters.splice(1, 1)
+console.log(rickAndMortyCharacters)
